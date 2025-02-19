@@ -1,0 +1,43 @@
+_repo: The-perfume-of-the-lady-in-black_75258
+_version: 0.0.1
+alternative_title: Le parfum de la dame en noir. English
+contributor:
+  illustrator:
+    agent_name: Simont
+    gutenberg_agent_id: '57874'
+    url: http://www.gutenberg.org/2009/agents/57874
+creator:
+  author:
+    agent_name: Leroux, Gaston
+    birthdate: 1868
+    deathdate: 1927
+    gutenberg_agent_id: '112'
+    url: http://www.gutenberg.org/2009/agents/112
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gaston_Leroux
+    - https://fr.wikipedia.org/wiki/Gaston_Leroux
+description: 'Wikipedia page on this work: https://en.wikipedia.org/wiki/The_Perfume_of_the_Lady_in_Black_(novel)'
+gutenberg_issued: '2025-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75258'
+  lccn: 09006576
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/hvd.32044021633326
+pgterms:marc905: 20230515051337leroux
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Aaron Adrignola, Laura Natal, Tim Lindell and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bBrentano''s, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Rouletabille, Joseph (Fictitious character) -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: The perfume of the lady in black
+url: http://www.gutenberg.org/ebooks/75258
