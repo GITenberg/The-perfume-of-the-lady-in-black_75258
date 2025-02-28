@@ -6,6 +6,9 @@ contributor:
     agent_name: Simont
     gutenberg_agent_id: '57874'
     url: http://www.gutenberg.org/2009/agents/57874
+covers:
+- cover_type: archival
+  image_path: 75258-h/images/cover.jpg
 creator:
   author:
     agent_name: Leroux, Gaston
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gaston_Leroux
     - https://fr.wikipedia.org/wiki/Gaston_Leroux
 description: 'Wikipedia page on this work: https://en.wikipedia.org/wiki/The_Perfume_of_the_Lady_in_Black_(novel)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75258#The-perfume-of-the-lady-in-black
 gutenberg_issued: '2025-01-31'
 gutenberg_type: Text
 identifiers:
